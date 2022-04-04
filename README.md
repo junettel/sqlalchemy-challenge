@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-SQLAlchemy Homework - Surfs Up!
+Surfs Up!
 
 ## Step 1 - Climate Analysis and Exploration
 
